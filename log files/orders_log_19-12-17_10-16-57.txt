@@ -1,0 +1,11 @@
+Log file for order creation from shopee to UrbanFox IMS. Account:merries
+merries-4 orders retrieved, 1 orders under READY_TO_SHIP,0 new orders and recorded in template, 0 new order lines recorded in template. Refer to log file for more details.
+
+All orders retrieved
+17121819170B6XG-READY_TO_SHIP
+17121613240RVWG-SHIPPED
+17121300000NP3Q-COMPLETED
+17121222120BCP6-SHIPPED
+
+New orders
+[SO, SKU, Payment, name, address, postal, phone, qty, unitPrice, TotPrice, Remarks, status]

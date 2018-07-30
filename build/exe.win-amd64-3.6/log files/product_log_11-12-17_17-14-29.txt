@@ -1,0 +1,2 @@
+Log file for product inventory updates from UrbanFox IMS to shopee. Account:merries
+merries-0 successful updates, 0 failed updates. Refer to log folder for more details

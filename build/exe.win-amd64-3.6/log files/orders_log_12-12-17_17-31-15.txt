@@ -1,0 +1,4 @@
+Log file for order creation from shopee to UrbanFox IMS. Account:mondelez
+mondelez-Failed to get order listing from shopee
+
+All orders retrieved

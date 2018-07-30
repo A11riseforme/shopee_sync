@@ -1,0 +1,18 @@
+Log file for order creation from shopee to UrbanFox IMS. Account:kao
+kao-3 orders retrieved, 3 orders under READY_TO_SHIP,3 new orders and recorded in template, 5 new order lines recorded in template. Refer to log file for more details.
+
+All orders retrieved
+171212212596FEJ-READY_TO_SHIP
+17121122589TB8W-READY_TO_SHIP
+17121122469SSXY-READY_TO_SHIP
+
+New orders
+[SO, SKU, Payment, name, address, postal, phone, qty, unitPrice, TotPrice, Remarks, status]
+171212212596FEJ-READY_TO_SHIP
+['171212212596FEJ', 'K-595659+595660+595661+597397', 'Paid', 'Radhia Kazura', '253C, ONAN ROAD, #253c , SG, 424639', '424639', '6581271724', 1, '22.45', '22.45', '', 'READY_TO_SHIP']
+17121122469SSXY-READY_TO_SHIP
+['17121122469SSXY', 'K-278178+278179+286175', 'Paid', 'Tracy Teo', 'BLOCK 258D, COMPASSVALE ROAD, #13-585 , SG, 544258', '544258', '6597628904', 1, '40.90', '50.80', '', 'READY_TO_SHIP']
+['17121122469SSXY', 'K-297631', 'Paid', 'Tracy Teo', 'BLOCK 258D, COMPASSVALE ROAD, #13-585 , SG, 544258', '544258', '6597628904', 1, '14.90', '50.80', '', 'READY_TO_SHIP']
+17121122589TB8W-READY_TO_SHIP
+['17121122589TB8W', 'K-531091x24', 'Paid', 'Josh', '7 JERVOIS CLOSE, #9-14 , SG, 249103', '249103', '6581020810', 1, '95.00', '80.95', '', 'READY_TO_SHIP']
+['17121122589TB8W', 'K-541995+541996', 'Paid', 'Josh', '7 JERVOIS CLOSE, #9-14 , SG, 249103', '249103', '6581020810', 1, '7.95', '80.95', '', 'READY_TO_SHIP']

@@ -1,0 +1,2 @@
+Log file for product inventory updates from UrbanFox IMS to shopee. Account:mondelez
+mondelez-Failed to read inventory from urbanfox inventory folder

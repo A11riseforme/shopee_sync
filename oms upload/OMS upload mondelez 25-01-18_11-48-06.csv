@@ -1,0 +1,5 @@
+SO Identifier,Item SKU,Payment Terms,Ship Date,Ship Time,Ship to Contact,Ship to Company,Ship to Address 1,Ship to Address 2,Ship to Unit #,Ship to Postal Code,Ship to Phone,Qty,Price per Item,Price per SO,Remarks (Shipping) - visible to deliveryman,Remarks (WMS internal),Country Name
+1801191901068KR,,Paid,,,123333,,"Nemocommerce seoul korea, #114 , SG, 06187",,,06187,821090998665,1,10.00,,,1801191901068KR,
+1801191906068KS,SKU10001,Paid,,,123333,,"Nemocommerce seoul korea, #114 , SG, 06187",,,06187,821090998665,1,1.00,,,1801191906068KS,
+1801191906068KS,SKU10002,Paid,,,123333,,"Nemocommerce seoul korea, #114 , SG, 06187",,,06187,821090998665,1,1.00,,,1801191906068KS,
+1801191906068KS,,Paid,,,123333,,"Nemocommerce seoul korea, #114 , SG, 06187",,,06187,821090998665,1,10.00,,,1801191906068KS,

@@ -1,0 +1,5 @@
+Log file for order creation from shopee to UrbanFox IMS. Account:merries
+merries-No ready to ship orders from shopee - 
+
+All orders retrieved
+17120800150RJ89-SHIPPED

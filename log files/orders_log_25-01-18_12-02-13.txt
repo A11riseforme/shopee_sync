@@ -1,0 +1,9 @@
+Log file for order creation from shopee to UrbanFox IMS. Account:mondelez
+mondelez-2 orders retrieved, 2 orders under READY_TO_SHIP,0 new orders and recorded in template, 0 new order lines recorded in template. Refer to log file for more details.
+
+All orders retrieved
+1801191906068KS-READY_TO_SHIP
+1801191901068KR-READY_TO_SHIP
+
+New orders
+[SO, SKU, Payment, name, address, postal, phone, qty, unitPrice, TotPrice, Remarks, status]

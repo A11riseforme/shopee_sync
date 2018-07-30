@@ -1,0 +1,22 @@
+Log file for order creation from shopee to UrbanFox IMS. Account:merries
+merries-9 orders retrieved, 3 orders under READY_TO_SHIP,3 new orders and recorded in template, 3 new order lines recorded in template. Refer to log file for more details.
+
+All orders retrieved
+17122806570F1YN-READY_TO_SHIP
+1712271846013KB-READY_TO_SHIP
+17122711000H78H-SHIPPED
+171226233206G0D-READY_TO_SHIP
+17122619110W1MF-SHIPPED
+17122619090W0HD-SHIPPED
+17122618180UPPK-SHIPPED
+171225020006PEV-SHIPPED
+17122112060JW38-COMPLETED
+
+New orders
+[SO, SKU, Payment, name, address, postal, phone, qty, unitPrice, TotPrice, Remarks, status]
+171226233206G0D-READY_TO_SHIP
+['171226233206G0D', 'M-278148x3', 'Paid', 'Lim Ping', '10 WEST COAST ROAD, #01-08 , SG, 126822', '126822', '96726989', 1, '59.00', '49.93', '', 'READY_TO_SHIP']
+1712271846013KB-READY_TO_SHIP
+['1712271846013KB', 'M-405244x4', 'Paid', 'Celeste lim', 'BLOCK 454, FAJAR ROAD, #11-592 , SG, 670454', '670454', '6596369683', 1, '88.00', '83.00', 'Please leave parcel outside gate if nobody answer the door.', 'READY_TO_SHIP']
+17122806570F1YN-READY_TO_SHIP
+['17122806570F1YN', 'M-405245x6', 'Paid', 'Weyne', 'BLOCK 919, HOUGANG AVENUE 4, #08-453 , SG, 530919', '530919', '6590127223', 1, '80.00', '80.00', '', 'READY_TO_SHIP']

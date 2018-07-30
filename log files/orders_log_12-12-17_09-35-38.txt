@@ -1,0 +1,5 @@
+Log file for order creation from shopee to UrbanFox IMS. Account:mondelez
+mondelez-No ready to ship orders from shopee - 
+
+All orders retrieved
+1712051417065UN-CANCELLED

@@ -1,0 +1,1149 @@
+Category ID,Name,Has Child,Parent ID,Attributes
+1,Women's Apparel,True,0,
+373,Dresses,True,1,
+6389,Midi Dress,False,373,;Brand;Material;Style
+6391,Maxi Dress,False,373,;Brand;Material;Style
+4770,Others,False,373,;Brand
+11962,Bodycons,False,373,;Brand
+11490,Short Dresses,False,373,;Brand;Material;Style
+357,Tops,True,1,
+6414,Crop Top,False,357,;Brand;Material;Style
+6415,T-shirt,False,357,;Brand;Material;Style
+6416,Blouse,False,357,;Brand;Material;Style
+6418,Plus size,False,357,;Brand;Material;Style
+6420,Tank Top,False,357,;Brand;Material;Style
+4769,Others,False,357,;Brand
+11479,Shirt,False,357,;Brand;Material;Style
+11480,Tunic,False,357,;Brand
+383,Playsuits & Jumpsuits,True,1,
+4768,Others,False,383,;Brand
+11493,Rompers,False,383,;Brand;Material;Color
+11494,Jumpsuits,False,383,;Brand;Material;Color
+11495,Dungarees,False,383,;Brand;Material;Color
+375,Skirts,True,1,
+6409,Maxi skirt,False,375,;Brand;Style;Material;Color
+6410,Mini skirt,False,375,;Brand;Material;Color
+4767,Others,False,375,;Brand
+11491,Skater Skirts,False,375,;Brand;Material;Color
+11492,A-line Skirts,False,375,;Brand;Material;Color
+377,Shorts,True,1,
+6406,Denim Shorts,False,377,;Brand;Material
+6407,Skorts,False,377,;Brand;Material
+4766,Others,False,377,;Brand
+11477,Tailored Shorts,False,377,;Brand;Material
+11478,Casual Shorts,False,377,;Brand;Material
+379,Pants & Leggings,True,1,
+6402,Culottes,False,379,;Brand;Material;Pants Length
+6403,Women's Jeans,False,379,;Brand;Rise;Pants Length
+6404,Leggings,False,379,;Brand;Material;Pants Length
+4765,Others,False,379,;Brand
+11482,Wide-legged Pants,False,379,;Brand;Material;Pants Length
+11483,Straight Leg Pants,False,379,;Brand;Material;Pants Length
+11484,Skinny Pants,False,379,;Brand;Material;Pants Length
+11485,Cropped Pants,False,379,;Brand;Material;Pants Length
+11486,Jogger Pants,False,379,;Brand;Material;Pants Length
+381,Outerwear,True,1,
+6400,Parka,False,381,;Brand;Material
+6401,Jacket,False,381,;Brand;Material;Style
+6399,Cardigan,False,381,;Brand;Material;Style
+4764,Others,False,381,;Brand
+11474,Coats,False,381,;Brand;Material;Style
+11475,Blazers,False,381,;Brand;Material;Style
+11476,Hoodies & Sweaters,False,381,;Brand;Material;Style
+385,Lingerie,True,1,
+6395,Sleepwear,False,385,;Brand;Type;Material
+6396,Bra,False,385,;Brand;Style;Material
+6397,Panty,False,385,;Brand;Style;Material
+4763,Others,False,385,;Brand
+11487,Bralette,False,385,;Brand;Material;Style
+11488,Lingerie Sets,False,385,;Brand;Material;Style
+11489,Shapewear,False,385,;Brand;Material;Shapewear Concern
+387,Beachwear,True,1,
+6386,Bikini,False,387,;Brand;Style;Material
+6387,Swimsuit,False,387,;Brand;Style;Material
+6388,Beach Cover Up,False,387,;Brand;Style;Material
+4762,Others,False,387,;Brand
+11481,Rashguards,False,387,;Brand;Material;Sleeve Length
+389,Ethnic,True,1,
+6393,Cheongsam,False,389,;Brand
+6394,Jubah,False,389,;Brand
+4761,Others,False,389,;Brand
+204,Others,False,1,;Brand
+4760,Others,False,204,;Brand
+13617,Active Wear,True,1,
+13652, Sports Bottom,False,13617,;Brand
+13654,Sports Top,False,13617,;Brand
+13655,Sports Bra,False,13617,;Brand
+13709,Others,False,13617,;Brand
+2,Men's Wear,True,0,
+393,T-Shirts,True,2,
+6460,Men's Short Sleeve Tee,False,393,;Brand;Color;Origin;Material;Form
+4640,Others,False,393,;Brand
+11680,Graphic ,False,393,;Brand;Material;Fit
+11681,Solid,False,393,;Brand;Material;Fit
+11682,Long Sleeved,False,393,;Brand;Material;Fit
+11683,Tank Tops,False,393,;Brand;Material;Fit
+395,Shirts,True,2,
+6452,Short Sleeve,False,395,;Brand;Fit
+6453,Long Sleeve,False,395,;Brand;Fit
+6454,Polos,False,395,;Brand;Fit
+4639,Others,False,395,;Brand
+397,Formal Wear,False,2,;Brand
+4638,Others,False,397,;Brand
+401,Jeans & Pants,True,2,
+6449,Jeans,False,401,;Brand;Material;Fit
+6451,Joggers & Sweatpants,False,401,;Brand;Material;Fit
+4637,Others,False,401,;Brand
+11684,Chinos,False,401,;Brand;Material;Fit
+11685,Cargo ,False,401,;Brand;Material;Fit
+403,Shorts & Bermudas,True,2,
+6456,Sweat Shorts,False,403,;Brand
+6457,Chinos,False,403,;Brand
+4636,Others,False,403,;Brand
+11686,Denim,False,403,;Brand;Fit
+11687,Bermudas,False,403,;Brand;Material;Fit
+407,Underwear,True,2,
+4634,Others,False,407,;Brand
+11719,Boxers,False,407,;Brand;Material
+11720,Briefs,False,407,;Brand;Material
+11721,Loungewear,False,407,;Brand;Material
+203,Others,False,2,;Brand
+4632,Others,False,203,;Brand
+13609,Sports Wear,True,2,
+13610,Compression Wear,False,13609,;Brand;Size;Colour;Material
+13615,Sports Bottom,False,13609,;Brand
+13616,Sports Top,False,13609,;Brand
+13710,Others,False,13609,;Brand
+11689,Swimwear,False,2,;Brand;Material;Type
+11690,Others,False,11689,;Brand;Material;Type
+11692,Accessories,True,2,
+11693,Others,False,11692,;Brand;Material
+11705,Jackets & Coats,True,2,
+11706,Others,False,11705,;Brand
+11707,Denim Jackets,False,11705,;Brand;Material;Fit
+11708,Leather Jackets,False,11705,;Brand;Fit
+11709,Bomber Jackets,False,11705,;Brand;Material;Fit
+11710,Winter Jackets,False,11705,;Brand;Material;Fit
+11711,Rain Coats,False,11705,;Brand;Material
+11714,Sweaters & Cardigans,False,2,;Brand;Material;Fit
+11715,Others,False,11714,;Brand;Material;Fit
+11717,Hoodies,False,2,;Brand;Material;Fit
+11718,Others,False,11717,;Brand;Material;Fit
+4,Jewellery & Accessories,True,0,
+415,Necklaces,True,4,
+6495,Pendant Necklace,False,415,;Brand;Style;Material
+6496,Choker ,False,415,;Brand;Style;Material
+6497,Minimal Necklace,False,415,;Brand;Style;Material
+6498,Statement Necklace,False,415,;Brand;Style;Material
+4759,Others,False,415,;Brand
+11232,Multilayer,False,415,;Brand;Material;Style
+417,Bangles & Bracelets,True,4,
+4758,Others,False,417,;Brand
+11240,Chain Bracelets,False,417,;Brand;Material
+11241,Leather Bracelets,False,417,;Brand
+11242,Multilayer Bracelets,False,417,;Brand;Material
+11243,Cuff Bangles,False,417,;Brand;Material
+419,Rings,True,4,
+6499,Fashion Ring,False,419,;Brand;Dimension;Material;Style
+6500,Ring set,False,419,;Brand;Dimension;Material;Style
+6501,Diamond Ring,False,419,;Brand;Dimension;Material;Style
+4757,Others,False,419,;Brand
+11233,Statement Rings,False,419,;Brand;Material;Style
+421,Earrings,True,4,
+6484,Stud Earrings,False,421,;Brand;Style;Material
+6485,Hoop Earrings,False,421,;Brand;Style;Material
+4756,Others,False,421,;Brand;Material
+11249,Ear Cuffs,False,421,;Brand;Material
+11250,Dangle Earrings,False,421,;Brand;Material;Style
+423,Eyewear,True,4,
+4755,Others,False,423,;Brand
+11234,Fashion Glasses,False,423,;Brand;Frame Material;Style;Gender;Lens Material
+11235,Aviator Sunglasses,False,423,;Brand;Frame Material;Style;Gender;Lens Material
+11236,Designer Sunglasses,False,423,;Brand;Frame Material;Style;Gender;Lens Material
+11237,Fashion Sunglasses,False,423,;Brand;Frame Material;Style;Gender;Lens Material
+425,Scarves & Shawls,True,4,
+6502,Scarf,False,425,;Brand
+6503,Shawl,False,425,;Brand
+4754,Others,False,425,;Brand
+427,Hair Accessories,True,4,
+6489,Headband,False,427,;Brand;Style;Material
+6490,Hair clip,False,427,;Brand;Style
+6491,Hair Ties & Scrunchies,False,427,;Brand;Style
+4753,Others,False,427,;Brand
+11239,Bandanas,False,427,;Brand;Material
+459,Hats & Caps,True,4,
+6494,Beanie,False,459,;Brand
+4752,Others,False,459,;Brand
+11244,Caps,False,459,;Brand
+11245,Floppy Hats,False,459,;Brand
+11246,Bucket Hats,False,459,;Brand
+11247,Fedora Hats,False,459,;Brand
+11248,Visors,False,459,;Brand
+461,Belts,True,4,
+4751,Others,False,461,;Brand
+11251,Highwaisted Belts,False,461,;Brand;Material;Style
+11252,Skinny Belts,False,461,;Brand;Material;Style
+11253,Wide Belts,False,461,;Brand;Material;Style
+2307,Brooches & Pins,False,4,;Brand
+4747,Others,False,2307,;Brand
+2308,Tattoos,False,4,;Brand
+4750,Others,False,2308,;Brand
+2309,Keychains,False,4,;Brand
+4749,Others,False,2309,;Brand
+200,Others,False,4,;Brand
+4746,Others,False,200,;Brand
+10299,Anklet,False,4,;Brand
+10300,Others,False,10299,;Brand
+3,Bags & Luggage,True,0,
+481,Wallets & Cardholders,True,3,
+6516,Long Wallet,False,481,;Brand;Style;Material;Size (L x W x H)
+6519,Short Wallet,False,481,;Brand;Style;Material;Size (L x W x H)
+4650,Others,False,481,;Brand
+11257,Coin Purses,False,481,;Brand;Material;Size (L x W x H)
+11258,Card Holders,False,481,;Brand;Material;Size (L x W x H)
+483,Shoulder Bags,True,3,
+6521,Tote bag,False,483,;Brand;Material;Size (L x W x H)
+4649,Others,False,483,;Brand
+485,Sling Bags,True,3,
+6510,Crossbody Bag,False,485,;Brand;Style;Material;Design;Color
+6511,Messenger Bag,False,485,;Brand;Material;Size (L x W x H)
+6512,Bucket Bag,False,485,;Brand;Material;Size (L x W x H)
+4648,Others,False,485,;Brand
+487,Backpacks,True,3,
+6506,Drawstring bag,False,487,;Brand;Material;Size (L x W x H)
+4647,Others,False,487,;Brand
+11259,Casual Backpacks,False,487,;Brand;Material;Size (L x W x H)
+11260,Outdoor Backpacks,False,487,;Brand;Material;Size (L x W x H)
+489,Luxury Bags,True,3,
+4646,Others,False,489,;Brand
+11420,Handbags,False,489,;Material;Model;Size (L x W x H);Brand
+11421,Sling Bags,False,489,;Brand;Material;Model;Size (L x W x H)
+11422,Shoulder Bags,False,489,;Brand;Material;Model;Size (L x W x H)
+11423,Backpacks,False,489,;Brand;Material;Model;Size (L x W x H)
+11424,Wallets,False,489,;Brand;Material;Model;Size (L x W x H)
+11425,Card Holder,False,489,;Brand;Material;Model;Size (L x W x H)
+11426,Key Holder,False,489,;Brand;Material;Model;Size (L x W x H)
+493,Travel & Luggage,True,3,
+6513,Passport Holder,False,493,;Brand;Material
+4645,Others,False,493,;Brand
+11431,Travel Accessories,False,493,;Brand
+11255,Wheeled Luggage,False,493,;Brand;Case Type;Material;Size;Carry On
+11256,Hand Luggage,False,493,;Brand;Case Type;Material;Size;Carry On
+2310,Clutches & Pouches,False,3,
+4642,Others,False,2310,;Brand
+198,Others,False,3,;Brand
+4641,Others,False,198,;Brand
+6,Health & Beauty,True,0,
+517,Personal Care,True,6,
+6578,Oral,False,517,;Brand;Skin Type;Product Volume;Formulation;Benefits
+6580,Deodorant,False,517,;Brand;Type
+6581,Feminine Care,False,517,;Brand;Type;Product Volume
+6582,Foot Care,False,517,;Brand;Type;Product Volume
+7585,Slimming,False,517,;Brand;Type;Product Volume
+4775,Others,False,517,;Brand
+11011,Eye Care,False,517,;Brand;Concern;Expiry Date;Product Volume
+11012,Senior Care,False,517,;Brand;Type;Product Volume
+12682,Sexual Wellness,False,517,;Brand
+11439,Lip Care,False,517,;Brand
+495,Skincare,True,6,
+6583,Cleanse,False,495,;Brand;Type;Texture;Skincare Type
+6584,Tone,False,495,;Brand;Formulation;Benefits;Skin Type;Product Volume
+6585,Mask,False,495,;Brand;Benefits;Skin Type;Product Volume
+6586,Moisturise,False,495,;Brand;Type;Texture;Skincare Type;Product Volume
+6587,Serum & Treatment,False,495,;Brand;Type;Skincare Type;Product Volume
+7587,Skincare Set,False,495,;Brand;Type
+4783,Others,False,495,;Brand
+11018,Scrub,False,495,;Brand;Formulation;Benefits;Skin Type;Product Volume
+11019,Sun Care,False,495,;Brand;Formulation;Benefits;Skin Type;Product Volume
+11020,Gift Sets,False,495,;Brand
+497,Makeup,True,6,
+6554,Face,False,497,;Type;Texture;Brand;Finish;Coverage;Benefits
+6555,Lips,False,497,;Type;Brand;Finish;Benefits;Colour
+6558,Eye,False,497,;Type;Texture;Brand;Finish;Benefits;Colour
+6559,Makeup Remover,False,497,;Type;Brand;Product Volume;Benefits
+4782,Others,False,497,;Brand
+11016,Sets & Palettes,False,497,;Brand;Type
+11017,Gift Sets,False,497,;Brand;Type
+10319,Powders & Compacts,False,497,;Brand;Finish;Benefits;Texture
+10321,Blusher,False,497,;Brand;Colour;Finish
+10322,Contour & Highlight,False,497,;Brand;Texture;Finish
+501,Fragrances,True,6,
+6544,EDP,False,501,;Brand;Gender;Product Volume
+6545,EDT,False,501,;Brand;Gender;Product Volume
+6546,Spray,False,501,;Brand;Gender;Product Volume;Benefits
+6547,Mist,False,501,;Brand;Gender;Product Volume;Benefits
+4781,Others,False,501,;Brand
+11008,EDC,False,501,;Brand;Product Volume;Gender;Formulation;Size
+11009,Solid,False,501,;Brand;Product Volume;Gender;Formulation;Size
+11010,Gift Sets,False,501,;Brand
+503,Bath & Body,True,6,
+6532,Body Wash,False,503,;Brand;Type;Skin Type;Benefits;Product Volume
+6533,Moisturise,False,503,;Brand;Type;Skin Type;Benefits;Product Volume
+6534,Scrub,False,503,;Brand;Skin Type;Type;Benefits;Product Volume
+4779,Others,False,503,;Brand
+11021,Massage,False,503,;Brand;Formulation;Benefits;Gender;Product Volume
+11022,Bust Care,False,503,;Brand;Formulation;Benefits;Product Volume
+11023,Hand & Foot,False,503,;Brand;Formulation;Benefits;Gender;Product Volume
+11024,Hair Removal,False,503,;Brand;Formulation;Benefits;Gender;Product Volume
+11213,Accessories,False,503,;Brand;Type
+11214,Sun Care,False,503,;Brand;Formulation;Benefits;Gender;Product Volume;Sun Protection
+11215,Gift Sets,False,503,;Brand
+505,Women's Hair Care,True,6,
+6549,Shampoo,False,505,;Brand;Hair Concerns;Product Volume
+6550,Conditioner,False,505,;Brand;Hair Concerns;Product Volume
+6551,Hair Color,False,505,;Brand;Type;Product Volume;Colour
+6552,Treatment,False,505,;Brand;Type;Hair Concerns;Product Volume
+6553,Styling,False,505,;Brand;Type;Hair Concerns;Product Volume
+4777,Others,False,505,;Brand
+507,Nails,True,6,
+6569,Lacquer,False,507,;Brand;Type;Product Volume
+6573,Nail Art,False,507,;Brand;Type
+6577,Nail Tools,False,507,;Brand;Type
+7584,Remover,False,507,;Brand;Type
+4776,Others,False,507,;Brand
+11228,Treatment,False,507,;Brand;Type;Product Volume
+509,Beauty Tools,True,6,
+4778,Others,False,509,;Brand
+10002,Body,False,509,;Brand
+11216,Mirrors,False,509,;Brand;Size
+11217,Eye,False,509,;Brand;Type
+11218,Face,False,509,;Brand;Type
+11219,Sharpeners,False,509,;Brand;Size
+11220,Gift set,False,509,;Brand;Type
+11231,Hair Tools,False,509,;Brand
+511,Men's Grooming,True,6,
+6567,Shave,False,511,;Brand;Type;Product Volume;Benefits
+4780,Others,False,511,;Brand
+11013,Hair,False,511,;Brand;Type;Formulation;Finish;Strength;Product Volume
+11014,Face,False,511,;Brand;Type;Formulation;Skin Type;Product Volume
+11015,Gift Sets,False,511,;Brand;Type
+2312,Cosmetic Storage,True,6,
+4773,Others,False,2312,;Brand
+11224,Professional Storage,False,2312,;Brand;Type;Size
+11225,Palette Organizer,False,2312,;Brand;Type;Size
+11226,Brush Organizer,False,2312,;Brand;Type;Size
+11227,Travel Pouches,False,2312,;Brand;Type;Size
+202,Others,False,6,;Brand
+4771,Others,False,202,;Brand
+126,Women's Shoes,True,0,
+549,Flats,True,126,
+6438,Women's Loafers,False,549,;Brand;Style;Material;Color
+4676,Others,False,549,;Brand
+11563,Ballet Flats,False,549,;Brand;Material;Color;Style
+11564,Peep Toes,False,549,;Brand;Material;Color
+11565,Espadrilles,False,549,;Brand;Material;Color
+551,Heels,True,126,
+6440,Platforms,False,551,;Brand;Material;Color;Heel Height
+7232,Pumps,False,551,;Brand;Material;Color;Heel Height
+4675,Others,False,551,;Brand
+11559,Peep Toes,False,551,;Brand;Material;Color;Heel Height
+11560,High Heels,False,551,;Brand;Material;Color;Heel Height
+11561,Mid Heels,False,551,;Brand;Material;Color;Heel Height
+11562,Low Heels,False,551,;Brand;Material;Color;Heel Height
+553,Slippers,True,126,
+6428,Women's Sandals,False,553,;Brand
+6429,Women's Flip Flops,False,553,;Brand
+4674,Others,False,553,;Brand
+557,Boots,True,126,
+6426,High boots,False,557,;Brand;Material;Color
+6427,Ankle boots,False,557,;Brand;Material;Color
+4672,Others,False,557,;Brand
+11549,Calf Boots,False,557,;Brand;Material;Color
+561,Sneakers,True,126,
+4671,Others,False,561,;Brand
+11541,Lace Up Sneakers,False,561,;Brand;Material;Color
+11542,Slip-ons,False,561,;Brand;Material;Color
+11543,Platform Sneakers,False,561,;Brand;Material;Color
+567,Socks,True,126,
+6448,Ankle socks,False,567,;Brand;Color
+4669,Others,False,567,;Brand
+11544,Invisible Socks,False,567,;Brand;Color
+11545,Thigh High Socks,False,567,;Brand;Color
+11567,Stockings,False,567,;Brand;Color
+569,Shoe Accessories,True,126,
+4668,Others,False,569,;Brand
+11546,Heel Protectors,False,569,;Brand
+11547,Insoles,False,569,;Brand
+11548,Laces,False,569,;Brand
+196,Others,False,126,;Brand
+4667,Others,False,196,;Brand
+11550,Sandals,True,126,
+11551,Others,False,11550,;Brand
+11552,Tie Leg Sandals,False,11550,;Brand;Material;Color
+11553,Chunky Sandals,False,11550,;Brand;Material;Color
+11554,Strappy Sandals,False,11550,;Brand;Material;Color
+168,Men's Shoes,True,0,
+599,Formal Shoes,False,168,;Brand
+4630,Others,False,599,;Brand
+603,Sports Shoes,True,168,
+6476,Basketball,False,603,;Brand
+6477,Running,False,603,;Brand
+4629,Others,False,603,;Brand
+605,Sandals & Flip-Flops,True,168,
+6474,Sandals,False,605,;Brand
+6475,Flip flops,False,605,;Brand
+4628,Others,False,605,;Brand
+2305,Socks,False,168,;Brand
+4627,Others,False,2305,;Brand
+195,Others,False,168,;Brand
+4626,Others,False,195,;Brand
+11700,Sneakers,False,168,;Brand
+11701,Others,False,11700,;Brand
+11722,Accessories,False,168,;Brand
+11723,Others,False,11722,;Brand
+11724,Boots,False,168,;Brand
+11725,Others,False,11724,;Brand
+11726,Loafers & Slip-Ons,False,168,;Brand
+11727,Others,False,11726,;Brand
+5,Watches,True,0,
+609,Digital,False,5,;Brand
+4624,Others,False,609,;Brand
+613,Fashion Watch,True,5,
+6466,Men's Fashion Watch,False,613,;Brand;Case Diameter;Movement;Band Colour;Band Material
+6467,Leather Watch,False,613,;Brand;Case Diameter;Movement;Band Colour;Band Material
+6468,Pocketwatch,False,613,;Brand;Case Diameter;Movement
+6469,Women's Fashion Watch,False,613,;Brand;Case Diameter;Movement;Band Colour;Band Material
+4625,Others,False,613,;Brand
+615,Couple Set,False,5,;Brand
+4623,Others,False,615,;Brand
+2404,Luxury Watch,False,5,;Brand
+4622,Others,False,2404,;Brand
+192,Others,False,5,;Brand
+4621,Others,False,192,;Brand
+11600,Sports Watches,False,5,;Brand
+11601,Others,False,11600,;Brand
+11602,Accessories,False,5,;Brand
+11603,Others,False,11602,;Brand
+8,Mobile & Gadgets,True,0,
+625,Batteries & Powerbanks,True,8,
+4742,Others,False,625,;Brand
+10951,Batteries,False,625,;Brand
+10952,<5000mAh,False,625,;Brand
+10953,5000mAh - 10000mAh,False,625,;Brand
+10954,12000mAh - 16000mAh,False,625,;Brand
+10955,20000mAh - 30000mAh,False,625,;Brand
+627,Memory Cards,True,8,
+4736,Others,False,627,;Brand
+10963,SD Cards,False,627,;Brand;Warranty Period
+10965,Micro SD Cards,False,627,;Brand;Warranty Period
+10966,Multimedia Cards,False,627,;Brand;Warranty Period
+10967,Memory Sticks,False,627,;Brand;Warranty Period
+10969,OTG,False,627,;Brand;Warranty Period
+2313,Mobile Accessories,True,8,
+4741,Others,False,2313,;Brand
+10956,Cases & Covers,False,2313,;Brand;Phone Compatibility;Material
+10957,Cables,False,2313,;Brand;Type;Length
+10958,Screen Protectors,False,2313,;Brand;Type
+10959,Photography Tools,False,2313,;Brand;Type
+10960,Car Accessories,False,2313,;Brand
+10961,Holders,False,2313,;Brand
+10962,Chargers,False,2313,;Brand
+13029,SIM / Top-Up Cards,False,2313,;Country;Service Provider;Card Validity;Data Size;Speed;Card Type
+2314,Gadgets,True,8,
+6341,Portable LED Light,False,2314,;Brand;Type
+6342,Portable Fans,False,2314,;Brand;Type
+4743,Others,False,2314,;Brand
+10949,Monopods & Tripods,False,2314,;Brand
+10950,Virtual Reality Glasses (VR),False,2314,;Brand;Warranty Period
+201,Others,False,8,;Brand
+4733,Others,False,201,;Brand
+10941,Mobile Phones & Tablets,True,8,
+10942,Others,False,10941,;Brand
+10943,Apple,False,10941,;Brand;Model;Built-in Storage;Colour
+10944,Samsung,False,10941,;Brand;Model;RAM;Built-in Storage;Warranty Period
+10945,Xiaomi,False,10941,;Brand;Model;RAM;Built-in Storage;Warranty Period
+10946,ASUS,False,10941,;Brand;Model;RAM;Built-in Storage;Warranty Period
+10947,Huawei,False,10941,;Brand;Model;RAM;Built-in Storage;Warranty Period
+10948,LG,False,10941,;Brand;Model;RAM;Built-in Storage;Warranty Period
+10970,Audio,True,8,
+11090,Others,False,10970,;Brand;Warranty Period
+11091,Headphones,False,10970,;Brand;Model;Bluetooth;Input Type;Warranty Period
+11092,Earphones,False,10970,;Brand;Model;Bluetooth;Warranty Period
+11093,Speakers,False,10970,;Brand;Model;Bluetooth;Warranty Period
+11094,MP3/MP4,False,10970,;Brand;Bluetooth;Warranty Period
+10971,Digital Wearables,True,8,
+10972,Others,False,10971,;Brand
+10973,Smart Watches,False,10971,;Brand;Model;Warranty Period
+10974,Fitness Bands,False,10971,;Brand;Model;Warranty Period
+10975,Straps,False,10971,;Brand;Model;Material
+9,Computers & Peripherals,True,0,
+633,Laptops,True,9,
+6351,Macbook,False,633,;Brand;Model;Processor;Storage;Screen Size (Inches)
+6352,Laptop,False,633,;Brand;Model;Processor;Storage;Screen Size (Inches)
+6353,Ultrabook,False,633,;Brand;Model;Processor;Storage;Screen Size (Inches)
+4723,Others,False,633,;Brand
+639,Storage,True,9,
+6363,Internal HDD,False,639,;Brand;Model;Size (GB);Type
+4720,Others,False,639,;Brand
+11006,Internal SSD,False,639,;Brand;Model;Capacity;Form Factor;Interface;Warranty Period
+11007,External Storage Drives,False,639,;Brand;Model;Storage Type;Capacity;Warranty Period
+641,Components,True,9,
+4719,Others,False,641,;Brand
+11190,Fans & Cooling,False,641,;Brand;Model;Fan Size;LED;Warranty Period
+10997,CPU,False,641,;Brand;Series;Model;Socket Type;Warranty Period
+10998,Motherboards,False,641,;Brand;Socket Type;Form Factor;Warranty Period
+10999,Video Cards,False,641,;Brand;Chipset Manufacturer;GPU;Memory Size;Warranty Period
+11000,Memory,False,641,;Brand;Model;Memory Type;Speed;Module Capacity;Multi-Channel Kit;Warranty Period
+11001,Computer Cases,False,641,;Brand;Model;Case Type;LED;Warranty Period
+11002,Power Supplies,False,641,;Brand;Model;Maximum Power;Energy-Efficient;Modular;Warranty Period
+11003,Accessory Cards,False,641,;Brand;Model;Interface;Warranty Period
+645,Networking,True,9,
+4718,Others,False,645,;Brand
+11072,Routers & Switches,False,645,;Brand;Model;Frequency Band;No. of Ports;Warranty Period
+11188,Access Points / Repeaters / Powerline,False,645,;Brand
+11004,Network Cables,False,645,;Brand;Model;Length;Cat;Warranty Period
+11005,Network Attached Storage (NAS),False,645,;Brand;Model;Included HDD Capacity;Form Factor;Warranty Period
+649,Printers & Imaging,True,9,
+4716,Others,False,649,;Brand
+11185,Printers & Scanners,False,649,;Brand;Model;Double Sided Printing;Input Tray Capacity;Print Speed;Mono/Color;Warranty Period
+11186,Projectors,False,649,;Brand;Model;Image Brightness;Weight;Warranty Period
+11187,Ink & Toners,False,649,;Brand;Model;Warranty Period
+651,Computer Accessories,True,9,
+4711,Others,False,651,;Brand
+11211,External DVD Drives,False,651,;Brand;Drive Type;Warranty Period
+10991,Adapters & Cables,False,651,;Brand;Model;Warranty Period
+10992,Cases & Bags,False,651,;Brand;Material;Size
+10993,Decal & Protectors,False,651,;Brand;Size
+10994,Mousepads,False,651,;Brand;Material;Size
+10995,Cooling Pads & Stands,False,651,;Brand;Size;Warranty Period
+13599,USB Hubs,False,651,;Brand;Ports;USB Type;Has Card Reader
+2321,Desktops,True,9,
+4714,Others,False,2321,;Brand
+10978,Desktop PC,False,2321,;Brand;Processor;Memory;Storage;Graphics Card;Operating System;Warranty Period
+10979,All-In-One PC,False,2321,;Brand;Processor;Memory;Storage;Graphics Card;Operating System;Warranty Period
+10980,Gaming PC,False,2321,;Brand;Processor;Memory;Storage;Graphics Card;Operating System;Warranty Period
+10981,Workstations,False,2321,;Brand;Processor;Memory;Storage;Graphics Card;Operating System;Warranty Period
+193,Others,False,9,;Brand
+4710,Others,False,193,;Brand
+11073,Software,True,9,
+11074,Others,False,11073,;Brand;Model;License Type;Physical Media
+11075,Operating System,False,11073,;Brand;Model;License Type;Physical Media
+11076,Productivity,False,11073,;Brand;Model;License Type;Physical Media
+11077,Security,False,11073,;Brand;Model;License Type;Physical Media
+10982,Computer Peripherals,True,9,
+10983,Others,False,10982,;Brand
+10984,Keyboards,False,10982,;Brand;Model;Switch Type;Numpad;Backlight;Warranty Period
+10985,Gaming Keyboards,False,10982,;Brand;Model;Switch Type;Numpad;Backlight;Warranty Period
+10986,Mice,False,10982,;Brand;Model;Connectivity;Backlight;Warranty Period
+10987,Gaming Mice,False,10982,;Brand;Model;Connectivity;Backlight;Warranty Period
+10988,M/KB Combos,False,10982,;Brand;Model;Connectivity;Backlight;Warranty Period
+10989,Monitors,False,10982,;Brand;Model;Display Size;Display Resolution;Video Standards;Response Time;Panel Type;Warranty Period
+14264,Webcams,False,10982,;Brand
+11,Home & Living,True,0,
+689,Furniture,True,11,
+6697,Sofa,False,689,;Dimension;Colour;Material;Brand
+6698,Table,False,689,;Dimension;Colour;Material;Type;Brand
+6700,Chair,False,689,;Dimension;Colour;Material;Type;Brand
+6710,Bed,False,689,;Dimension;Hardness level;Material;Size;Brand
+4701,Others,False,689,;Brand
+693,Beddings,True,11,
+6690,Pillow & Bolsters,False,693,;Type;Dimension;Brand
+6691,Bedsheet,False,693,;Type;Size;Brand
+6694,Blankets & Throws,False,693,;Dimension;Material;Brand
+6696,Cover,False,693,;Type;Dimension;Brand
+4703,Others,False,693,;Brand
+695,Home Decor,True,11,
+6713,Cushion & Covers,False,695,;Dimension;Type;Brand
+6714,Clock,False,695,;Dimension;Type;Brand
+4704,Others,False,695,;Brand
+10582,Wallpaper,False,695,;Brand;Length;Material
+10583,Wall Art,False,695,;Brand;Size;With Frame
+697,Kitchen & Dining,True,11,
+6720,Plate,False,697,;Material;Dimension;Brand
+6722,Pan,False,697,;Brand;Material;Size;Type
+6723,Pot,False,697,;Brand;Material;Size;Type
+6724,Cup,False,697,;Material;Dimension;Brand
+6725,Baking Tool,False,697,;Material;Brand
+6726,Tumblers,False,697,;Brand;Material;Size
+6727,Tableware,False,697,;Brand;Material;Type
+4708,Others,False,697,;Brand
+10596,Food Storage,False,697,;Brand;Type;Pcs / pack
+711,Bathroom,True,11,
+6686,Towel,False,711,;Material;Type;Dimension;Brand
+6688,Holder,False,711,;Dimension;Material;Brand
+6689,Water Heater,False,711,;Brand;Safety Mark
+4705,Others,False,711,;Brand
+10927,Bathroom Storage,False,711,;Brand;Type
+10928,Clothes Organizer,False,711,;Brand;Type
+10930,Bathroom Accessories,False,711,;Brand;Type
+2317,Housekeeping,True,11,
+4707,Others,False,2317,;Brand
+10589,Tissue & Wipes,False,2317,;Brand;Number of ply;Sheets / pack;Wet / Dry
+10590,Detergents,False,2317,;Brand;Type;Volume
+10591,Softeners,False,2317,;Brand;Volume
+10592,Dishwashing,False,2317,;Brand;Volume
+10594,Floor Cleaner,False,2317,;Brand;Volume
+10595,Cleaning Tools,False,2317,;Brand;Type
+2318,Aromatherapy,True,11,
+4699,Others,False,2318,;Brand
+10584,Essential Oils,False,2318,;Brand;Volume;Scent
+10585,Humidifiers,False,2318,;Brand;USB powered;Tank capacity;Warranty
+10586,Diffusers,False,2318,;Brand;USB powered;Tank capacity;Warranty
+10588,Scented Candles,False,2318,;Brand;Scent;Burning time
+2319,Lighting,True,11,
+4700,Others,False,2319,;Brand
+194,Others,False,11,;Brand
+4696,Others,False,194,;Brand
+9648,Stationery & Supplies,True,11,
+9649,Others,False,9648,;Brand
+9656,Pencil case,False,9648,;Brand
+9657,Pen,False,9648,;Brand;Type;Color
+9658,Pencil,False,9648,;Brand;Type
+9659,Bookmark,False,9648,;Brand
+9660,Post-it,False,9648,;Brand
+9661,Mailer Bag,False,9648,;Brand;Size (cm);Surface
+10249,Security & Surveillance,True,11,
+10250,Others,False,10249,;Brand
+10577,Safe Box,False,10249,;Brand;Capacity
+10580,Digital Lock,False,10249,;Brand;Type;Warranty;RFID Card / Tag;Installation included
+10581,Security Alarm,False,10249,;Brand;Warranty
+10932,Outdoor & Gardening,True,11,
+10933,Others,False,10932,;Brand
+10934,Mosquito Repellents,False,10932,;Brand;Type
+10935,Umbrellas,False,10932,;Brand;Type;Material
+10936,Raincoats,False,10932,;Brand;Type
+10937,Hammocks,False,10932,;Brand;Type;Size
+10938,Gardening Tools,False,10932,;Brand;Type
+14,Games & Hobbies,True,0,
+721,Consoles & Accessories,True,14,
+6677,XBox Console,False,721,;Brand;Model;Type
+6678,PS4 Console,False,721,;Brand;Model;Type
+6679,Wii Console,False,721,;Brand;Model;Type
+6680,3DS Console,False,721,;Brand;Model;Type
+6683,PS3 Console,False,721,;Brand;Model;Type
+4731,Others,False,721,;Brand
+12923,Switch,False,721,;Brand
+723,Video Games,True,14,
+6633,PS4 Games,False,723,;Brand;Model;Age Suitability;Region
+6634,XBox Games,False,723,;Brand;Model;Age Suitability
+6636,3DS Games,False,723,;Brand;Model;Age Suitability
+6638,PS3 Games,False,723,;Brand
+4730,Others,False,723,;Brand
+9900,PC Games,False,723,;Brand;Age Suitability
+12924,Switch Games,False,723,;Brand
+12925,Wii Games,False,723,;Brand
+725,Blocks & Building Toys,True,14,
+6646,Lego,False,725,;Brand;Series;Model
+6648,Nanoblock,False,725,;Brand;Series;Model
+6649,Gundam,False,725,;Brand;Type;Scale;Grade
+6650,Puzzle,False,725,;Brand
+7583,LOZ,False,725,;Brand;Series;Model
+4732,Others,False,725,;Brand
+733,Collectible Figurines,True,14,
+6665,Hot Toys,False,733,;Brand;Scale
+6666,Funko Pop,False,733,;Brand;Series;Category
+6667,Plush Toys,False,733,;Brand
+6668,Bandai,False,733,;Brand;Series;Type
+6669,Minifigures,False,733,;Brand;Series
+4729,Others,False,733,;Brand
+12927,Vehicle Models,False,733,;Brand
+12928,Action Figures,False,733,;Brand
+12929,Display & Model Tools,False,733,;Brand
+2315,Antiques & Collectibles,True,14,
+4725,Others,False,2315,;Brand
+12984,Antiques,False,2315,;Brand
+12985,Stamps,False,2315,;Brand
+12986,Currencies,False,2315,;Brand
+2316,Card & Board Games,True,14,
+4727,Others,False,2316,;Brand
+12930,Trading Card Games,False,2316,;Brand
+12931,Card Sleeves & Deck Boxes,False,2316,;Brand
+12932,Board Games,False,2316,;Brand
+12933,Party & Card Games,False,2316,;Brand
+2786,Game & Pop Merchandise,True,14,
+4728,Others,False,2786,;Brand
+13598,Collectibles,False,2786,;Brand
+14254,Pokémon Merchandise,False,2786,;Brand
+12987,Posters,False,2786,;Brand
+12988,Apparel,False,2786,;Brand;Type
+12989,Albums & Records,False,2786,;Brand;Artist
+197,Others,False,14,;Brand
+4724,Others,False,197,;Brand
+13656,Camera & Accessories,True,14,
+13861,Others,False,13656,;Brand
+13657,Cameras,False,13656,;Brand;Type;Model;Lens Type;Warranty
+13658,Instant,False,13656,;Brand
+13659,Action Cameras,False,13656,;Brand;Model;Warranty
+13661,Drone & Accessories,False,13656,;Brand
+13662,Car Cameras,False,13656,;Brand
+13667,Camera Accessories,False,13656,;Brand
+13665,Darts,True,14,
+13864,Tips,False,13665,;Brand
+13865,Others,False,13665,;Brand
+13666,Flight & Shafts,False,13665,;Brand;Model
+13668, Accessories,False,13665,;Brand
+13669,Music,False,14,;Brand
+13670,Default,False,13669,;Brand
+13671,Cue Sports,False,14,;Brand
+13672,Default,False,13671,;Brand
+12921,Novelty & Desk Toys,True,14,
+12922,Novelty Toys,False,12921,;Brand
+12934,Fidget Toys,False,12921,;Brand;Type
+12935,Rubiks Cubes,False,12921,;Brand
+12936,Yoyos & Kendamas,False,12921,;Brand
+12937,Desk Toys,False,12921,;Brand
+12,"Toys, Kids & Babies",True,0,
+769,Baby & Toddler Fashion,True,12,
+6782,Baby Shoes,False,769,;Brand;Color;Size;Material;Gender;Age
+6786,Baby Socks,False,769,;Brand;Color;Gender;Age
+6787,Baby Rompers,False,769,;Brand;Color;Gender;Material;Age
+4694,Others,False,769,;Brand
+14119,Baby Tops,False,769,;Brand
+14120,Baby Bottoms,False,769,;Brand
+11568,Baby Accessories,False,769,;Brand;Gender;Age
+11569,Baby Sets & Bundles,False,769,;Brand;Gender;Age
+11573,Baby Swimwear,False,769,;Brand;Gender;Age
+14053,Baby Sleepwear,False,769,;Brand
+14055,Baby Underwear,False,769,;Brand
+773,Kids' Fashion,True,12,
+6828,Kids' Shoes,False,773,;Brand;Color;Material;Age;Gender
+6834,Kids' Socks,False,773,;Brand;Color;Material;Age;Gender
+4695,Others,False,773,;Brand
+11575,Kids' Outerwear,False,773,;Brand;Age;Gender
+11576,Kids' Sleepwear,False,773,;Brand;Age;Gender
+11580,Kids' Underwear,False,773,;Brand;Age;Gender
+11581,Kids' Swimwear,False,773,;Brand;Age;Gender
+747,Gift Sets,False,12,;Brand
+4686,Others,False,747,;Brand
+751,Learning & Education,True,12,
+4687,Others,False,751,;Brand
+11622,Books,False,751,;Brand;Age
+11623,Puzzles,False,751,;Brand;Age
+11625,Educational Supplies,False,751,;Brand;Age
+11626,Flash Cards,False,751,;Brand;Age
+11627,Electronic Learning Products,False,751,;Brand;Age
+11628,Stickers,False,751,;Brand;Age
+753,Maternity Products,True,12,
+3723,Others,False,753,;Brand
+10027,Maternity Accessories,False,753,;Brand
+11639,Post-partum Care,False,753,;Brand
+11640,Prenatal Monitoring Devices,False,753,;Brand;Power Source
+755,Baby Gear,True,12,
+6792,Baby Stroller,False,755,;Brand;Type;Warranty;Maximum Weight Recommendation;Portability;Age
+6793,Baby Carrier,False,755,;Brand;Material;Warranty;Maximum Weight Recommendation;Portability;Age
+6794,Playmat,False,755,;Age;Material;Brand
+4688,Others,False,755,;Brand
+11583,Car Seats,False,755,;Brand;Warranty;Maximum Weight Recommendation;Portability;Car Seat Type;Age
+11585,Harnesses & Leashes,False,755,;Brand;Warranty;Age
+11586,Playards,False,755,;Brand;Warranty;Age
+11587,Stroller Accessories,False,755,;Brand;Warranty;Age
+11589,Walkers,False,755,;Brand;Warranty;Maximum Weight Recommendation;Portability;Age
+757,Toys & Games,True,12,
+6841,Basic and Life Skills Toys,False,757,;Brand;Age;Material;Warranty;PVC-free;Lead-free
+6844,Dolls & Accessories,False,757,;Brand;Age;Material;Warranty;PVC-free;Lead-free
+6845,Stuffed Animals & Plush,False,757,;Brand;Age;Material;Warranty;PVC-free;Lead-free
+6846,"Tricycles, Scooters & Wagons",False,757,;Brand;Age;Material;Warranty;PVC-free;Lead-free
+4689,Others,False,757,;Brand
+10207,Educational Toys,False,757,;Brand;Age;Material;Warranty;PVC-free;Lead-free
+10208,Musical Toys,False,757,;Brand;Age;Material;Warranty;PVC-free;Lead-free
+10209,Remote Control Toys,False,757,;Brand;Age;Material;Warranty;PVC-free;Lead-free
+11674,Arts & Crafts,False,757,;Brand
+11675,Baby & Toddler Toys,False,757,;Brand
+11676,Costumes,False,757,;Brand
+11677,Electronics for Kids,False,757,;Brand
+11679,Sensory Toys,False,757,;Brand;Age;Material;Warranty;PVC-free;Lead-free
+761,Bath & Baby Care,True,12,
+6801,Bath Accessories & Toys,False,761,;Brand;Age;Origin;Net Capacity
+6802,Body Wash & Shampoo,False,761,;Brand;Type;Origin;Net Capacity
+4691,Others,False,761,;Brand
+11605,Oral Care,False,761,;Brand
+11606,Bathing Tubs & Seats,False,761,;Brand
+11607,Bathroom Safety,False,761,;Brand
+11608,Ointments & Lotions,False,761,;Brand
+11609,Baby Wipes,False,761,;Brand
+11610,Wash Cloths,False,761,;Brand
+11611,Towels,False,761,;Brand
+763,Feeding & Nursing,True,12,
+6822,Bottle-Feeding,False,763,;Dimension;Material;Brand
+6824,Baby Food,False,763,;Brand
+6825,Bibs & Burp Cloths,False,763,;Material;Features;Brand
+6826,Chair & Seat,False,763,;Brand;Dimension;Features
+4692,Others,False,763,;Brand
+11591,Children's Tableware,False,763,;Brand;Material;PVC-free;Lead-free;BPA-free
+11593,Breastfeeding,False,763,;Brand;Material;Power Source;Pump Grade;Pump Type
+11595,Food Storage,False,763,;Brand;PVC-free;Lead-free;BPA-free
+11596,Milk Formulas,False,763,;Brand
+11597,Gift Sets,False,763,;Brand
+11598,Pacifiers & Accessories,False,763,;Brand;Material;PVC-free;Lead-free;BPA-free
+11599,Baby Supplements,False,763,;Brand
+14058,Swaddles,False,763,;Brand
+767,Diapers & Potties,True,12,
+6806,Potties,False,767,;Brand;Dimension
+6809,Changing Pads,False,767,;Brand;Dimension
+4693,Others,False,767,;Brand
+11612,Cloth Diaper Accessories,False,767,;Brand
+11613,Cloth Diapers,False,767,;Brand;Diaper Size;Diaper Type
+11615,Disposable Diapers,False,767,;Brand;Diaper Size;Diaper Type
+11616,Diaper Bags & Accessories,False,767,;Brand;Size
+11620,Swim Diapers,False,767,;Brand;Diaper Size;Diaper Type
+2325,Nursery,True,12,
+4685,Others,False,2325,;Brand
+11629,"Beds, Cots & Bedding",False,2325,;Brand;Weight (kg)
+11630,Dressers & Changing Units,False,2325,;Brand;Weight (kg)
+11631,Nursery Decor,False,2325,;Brand;Weight (kg)
+11632,Pillows & Bolsters,False,2325,;Brand;Weight (kg);Material
+11633,Gift Sets,False,2325,;Brand;Weight (kg)
+11634,Hangers,False,2325,;Brand;Weight (kg)
+190,Others,False,12,;Brand
+4684,Others,False,190,;Brand
+11643,Maternity Fashion,True,12,
+11644,Others,False,11643,;Brand
+11645,Maternity Bras,False,11643,;Brand;Material
+11646,Maternity Bottoms,False,11643,;Brand;Material
+11647,Maternity Underwear,False,11643,;Brand;Material
+11648,Maternity Tops,False,11643,;Brand;Material
+11649,Maternity Dresses,False,11643,;Brand;Material
+11650,Maternity Outerwear,False,11643,;Brand;Material
+11651,Baby Safety,True,12,
+11652,Others,False,11651,;Brand
+11653,Cabinet Locks & Straps,False,11651,;Brand
+11654,Bathroom Safety,False,11651,;Brand
+11655,Crib Netting,False,11651,;Brand
+11656,Edge & Corner Guards,False,11651,;Brand
+11658,Gates & Doorways,False,11651,;Brand
+11659,Monitors,False,11651,;Brand
+14056,Kids' Accessories,True,12,
+14139,Others,False,14056,;Brand
+14064,Kids' Watches,False,14056,;Brand
+14065,Kids' Bags,False,14056,;Brand
+14070,Kids' Jewellery and Accessories,False,14056,;Brand
+13,Sports & Outdoors,True,0,
+779,Sports Equipment,True,13,
+6374,Gym & Fitness,False,779,;Manufacturer;Brand;Material;Dimensions
+6375,Rackets,False,779,;Manufacturer;Brand;Material;Dimensions
+6376,Yoga,False,779,;Manufacturer;Brand;Material;Dimensions
+4665,Others,False,779,;Brand
+13866,Ball Sports,False,779,;Brand
+13867,Bottles,False,779,;Brand
+2324,Sports Nutrition,False,13,;Brand
+4660,Others,False,2324,;Brand
+2406,Recovery & Protection,False,13,;Brand
+4658,Others,False,2406,;Brand
+2716,Scooters & Hoverboards,True,13,
+6378,Scooter,False,2716,;Manufacturer;Colour;Battery;Brand
+6379,Hoverboard,False,2716,;Manufacturer;Colour;Battery;Brand;Safety Mark
+6380,Electric scooter,False,2716,;Manufacturer;Colour;Battery;Brand;Safety Mark
+6381,Equipment Parts,False,2716,;Manufacturer;Brand;Safety Mark
+4664,Others,False,2716,;Brand
+191,Others,False,13,;Brand
+4657,Others,False,191,;Brand
+13868,Outdoor Activities,True,13,
+13869,Fishing,False,13868,;Brand
+13870,Kites,False,13868,;Brand
+13871,Camping,False,13868,;Brand
+13872,Cycling,False,13868,;Brand
+13873,Swimming,False,13868,;Brand
+13874,Others,False,13868,;Brand
+166,Tickets & Vouchers,True,0,
+815,Leisure,True,166,
+7023,Spa Voucher,False,815,;Value;Validity;Brand
+7024,Resort Voucher,False,815,;Value;Validity;Brand
+7025,Concert Ticket,False,815,;Value;Validity;Brand
+7026,Ride Ticket,False,815,;Value;Validity;Brand
+4592,Others,False,815,;Brand
+817,Retail,True,166,
+7018,Shopping Vouchers,False,817,;Type;Value;Validity;Brand
+7020,Food Vouchers,False,817,;Type;Value;Validity;Brand
+7021,Gift Card,False,817,;Type;Value;Validity;Brand
+7022,ezlink,False,817,;Type;Value;Validity;Brand
+4593,Others,False,817,;Brand
+186,Others,False,166,;Brand
+4591,Others,False,186,;Brand
+2414,Home Appliances,True,0,
+2416,Kitchen Appliances,True,2414,
+6872,Cooker,False,2416,;Brand;Color;Origin;Wattage;Warranty;Safety Mark
+6873,Kettle,False,2416,;Brand;Color;Origin;Wattage;Warranty;Safety Mark
+6874,Coffee Machine,False,2416,;Brand;Color;Origin;Wattage;Warranty;Safety Mark
+6875,Blender,False,2416,;Brand;Color;Origin;Wattage;Warranty;Safety Mark
+6876,Oven,False,2416,;Brand;Color;Origin;Wattage;Warranty;Safety Mark
+4656,Others,False,2416,;Brand
+2417,Housekeeping & Improvement,True,2414,
+7118,Mop,False,2417,;Brand;Color;Origin;Wattage;Warranty
+6879,Vacuum,False,2417,;Brand;Color;Origin;Wattage;Warranty;Safety Mark
+6880,Robot,False,2417,;Brand;Color;Origin;Wattage;Warranty;Safety Mark
+4655,Others,False,2417,;Brand
+2418,Garment Care,True,2414,
+6883,Iron,False,2418,;Brand;Color;Origin;Wattage;Warranty;Safety Mark
+6885,Sewing machine,False,2418,;Brand;Color;Origin;Wattage;Warranty;Safety Mark
+4654,Others,False,2418,;Brand
+2419,Cooling,True,2414,
+6887,Fan,False,2419,;Brand;Color;Origin;Wattage;Warranty;Safety Mark
+6888,Aircon,False,2419,;Brand;Color;Origin;Wattage;Warranty;Safety Mark
+4653,Others,False,2419,;Brand
+2420,Entertainment,True,2414,
+6891,Video Players,False,2420,;Brand;Color;Origin;Wattage;Warranty;Safety Mark
+6892,Audio,False,2420,;Brand;Color;Origin;Wattage;Warranty;Safety Mark
+4652,Others,False,2420,;Brand
+2415,Others,False,2414,;Brand
+4651,Others,False,2415,;Brand
+167,Pet Accessories,True,0,
+825,Accessories,True,167,
+4605,Others,False,825,;Brand
+2327,Pet Furniture,True,167,
+7055,Pet Bed,False,2327,;Type;Pet Size;Dimensions;Material;Brand
+7057,Cage,False,2327,;Type;Pet Size;Dimensions;Material;Brand
+7058,Aquarium,False,2327,;Type;Pet Size;Dimensions;Material;Brand
+7059,Pet Feeder,False,2327,;Type;Pet Size;Dimensions;Material;Brand
+7060,Pet Climber,False,2327,;Type;Pet Size;Dimensions;Material;Brand
+4602,Others,False,2327,;Brand
+2328,Hygiene & Grooming ,True,167,
+7061,Pet Brush,False,2328,;Type;Pet Size;Dimensions;Material;Brand
+7062,Pet Shampoo,False,2328,;Type;Pet Size;Dimensions;Material;Brand
+7063,Pet Litter,False,2328,;Type;Pet Size;Dimensions;Material;Brand
+7064,Pet Deodoriser,False,2328,;Type;Pet Size;Dimensions;Material;Brand
+4603,Others,False,2328,;Brand
+187,Others,False,167,;Brand
+4601,Others,False,187,;Brand
+169,Food & Beverages,True,0,
+841,Sweets & Chocolates,True,169,
+7011,Chocolate,False,841,;Brand
+7012,Candy,False,841,;Brand
+4680,Others,False,841,;Brand
+843,Dried Food,True,169,
+6992,Organic Food,False,843,;Origin;Brand
+6993,Seafood,False,843,;Origin;Brand
+6994,Bird nest,False,843,;Origin;Brand
+6995,Rice,False,843,;Origin;Brand
+4681,Others,False,843,;Brand
+845,Beverages,True,169,
+6996,Juice,False,845,;Type;Type;Brand
+6999,Carbonated Drinks,False,845,;Type;Brand
+7000,Coffee,False,845,;Flavor;Type;Brand
+7001,Tea,False,845,;Flavor;Type;Brand
+4682,Others,False,845,;Brand
+847,Snacks,True,169,
+7002,Chips,False,847,;Flavor;Origin;Weight (g);Brand
+7003,Biscuits,False,847,;Flavor;Origin;Weight (g);Brand
+7004,Japanese snacks,False,847,;Flavor;Origin;Weight (g);Brand
+4683,Others,False,847,;Brand
+9899,Korean Snacks,False,847,;Brand;Flavour;Origin;Weight (g)
+2326,Instant meals,True,169,
+7007,Cereal,False,2326,;Origin;Brand
+7008,Seasoning,False,2326,;Origin;Brand
+7009,Noodles,False,2326,;Brand;Origin;Flavor;Type;Weight (g)
+7010,Sauce,False,2326,;Flavor;Origin;Brand
+4679,Others,False,2326,;Brand
+2408,Frozen Food,False,169,;Brand
+4678,Others,False,2408,;Brand
+188,Others,False,169,;Brand
+4677,Others,False,188,;Brand
+14255,Alcoholic Beverages,True,169,
+14256,Default,False,14255,;Brand
+14257,Spirits,False,14255,;Brand;Type of Spirit;Volume
+14258,Wines,False,14255,;Brand;Volume;Type of Wine
+14259,Champagnes,False,14255,;Brand;Type of Champagnes;Volume
+14260,Beers,False,14255,;Brand
+14261,Ciders,False,14255,;Brand
+15,Miscellaneous ,True,0,
+2446,Adult,True,15,
+7099,Sex Toys,False,2446,;Brand
+7100,Adult Lingerie,False,2446,;Brand
+4589,Others,False,2446,;Brand
+185,Others,False,15,;Brand
+3709,Others,False,185,;Brand
+10450,Books,False,15,;Brand
+10451,Others,False,10450,;Brand
+16697,Posters & Prints,False,695,
+16861,Washing Machine,False,16245,
+16862,Dryer,False,16245,;Brand
+16863,Flowers,False,695,
+16864,Parties & Gifts,False,695,;Brand
+16865,Handmade & Craft Supplies,False,695,;Brand
+16866,Cards,False,9648,;Brand
+16868,Notebooks,False,9648,
+16869,Stickers,False,9648,;Brand
+16870,DIY Tools,False,10932,;Brand
+16871,Auto Tires & Wheels,False,16431,;Brand
+16872,Auto Oils & Fluids,False,16431,
+16873,Interior Accessories,False,16431,;Brand
+16874,Exterior Accessories,False,16431,;Brand
+16875,Batteries & Accessories,False,16431,
+16876,Auto Parts & Spare,False,16431,
+16877,Auto Care,False,16431,;Brand
+16878,Auto Accessories,False,16431,
+16446,Flea & Tick,False,16419,;Brand
+16420,Default,False,16419,;Brand
+16421,Dental Care,False,16419,;Brand
+16422,Eye & Ear Care,False,16419,;Brand
+16423,Skin & Coat Care,False,16419,;Brand
+16424,Vitamins & Supplements,False,16419,;Brand
+16419,Pet Health & Wellness,True,167,
+16418,Doors & Mats,False,2327,;Brand
+16370,Blowers,False,2328,;Brand
+16371,Blowers,False,2328,;Brand
+16372,Grooming Wipes,False,2328,;Brand
+16373,Tools & Clippers,False,2328,;Brand
+16374,Towels,False,2328,;Brand
+16375,Waste Removal,False,2328,;Brand
+16308,Car Products,False,825,;Brand
+16309,Bowls & Feeders,False,825,;Brand
+16310,Pee Pads,False,825,;Brand
+16311,Travel,False,825,;Brand
+16364,Default,False,16363,;Brand
+16365,Food,False,16363,;Brand
+16366,Treats,False,16363,;Brand
+16367,Fashion,False,16363,;Brand
+16368,"Wearables, Leashes & collars",False,16363,;Brand
+16369,Toys,False,16363,;Brand
+16363,Other Pets,True,167,
+16405,Default,False,16404,;Brand
+16406,Air Pumps,False,16404,;Brand
+16407,Decorations,False,16404,;Brand
+16408,Cleaning & Maintenance,False,16404,;Brand
+16409,Filters,False,16404,;Brand
+16410,Filtration & Circulation,False,16404,;Brand
+16411,Food,False,16404,;Brand
+16412,Furniture,False,16404,;Brand
+16413,Heating,False,16404,;Brand
+16414,Lighting & Hoods,False,16404,;Brand
+16415,Live Plant,False,16404,;Brand
+16416,Medications,False,16404,;Brand
+16417,Water Pumps,False,16404,;Brand
+16404,Fish,True,167,
+16357,Default,False,16356,;Brand
+16358,Food,False,16356,;Brand
+16359,Treats,False,16356,;Brand
+16360,Fashion,False,16356,;Brand
+16361,"Wearables, Leashes & collars",False,16356,;Brand
+16362,Toys,False,16356,;Brand
+16356,Cat,True,167,
+16314,Default,False,16313,;Brand
+16315,Food,False,16313,;Brand
+16316,Treats,False,16313,;Brand
+16317,Fashion,False,16313,;Brand
+16318,"Wearables, Leashes & Collars",False,16313,;Brand
+16319,Toys,False,16313,;Brand
+16313,Dog,True,167,
+14284,TICO,False,725,;Brand;Model;Series
+16268,Pouch,False,2310,;Brand
+16239,Packing Organizers,False,493,;Brand
+16194, Pouch,False,489,;Brand
+16176,Handbags,False,483,;Brand
+16175,Key Holders,False,481,;Brand
+16430,Gaming Chair,False,10982,;Brand
+16170,Default,False,16169,;Brand
+16169,999 Pure Gold & Silver-,False,4,;Brand
+16205,Default,False,16204,;Brand
+16204,Fine Jewellery,False,4,;Brand
+16432,Default,False,16431,;Brand
+16431,Automotive,True,11,
+15338,Flower Pots,False,10932,;Brand;Pot Shape
+15339,Plants,False,10932,;Brand;Color
+15340,Terrariums,False,10932,;Brand;Color
+16164,Paper Supplies,False,9648,;Brand
+15321,Planners and Organisers,False,9648,;Brand;Paper Type
+14839,Red Packet,False,9648,;Brand;Color
+15319,Calendars,False,9648,;Brand
+15310,Stamp,False,9648,;Brand
+15306,Files & Folders,False,9648,;Brand;Paper Type
+15313,Eraser,False,9648,;Brand;Color
+15316,Tape,False,9648,;Brand
+15318,Cutters,False,9648,;Brand
+15314,Office Equipment,False,9648,;Brand
+15315,Glue,False,9648,;Brand
+15312,Highlighter,False,9648,;Brand
+15308,Binders & Clips,False,9648,;Brand
+15307,Desktop Organisers,False,9648,;Brand;Color
+15309,Stapler,False,9648,;Brand;Color
+15317,Correction Tools,False,9648,;Brand;Color
+15311,Marker,False,9648,;Brand
+15337,Door Bell,False,10249,;Brand;Type
+15336,Lock,False,10249,;Brand
+15335,Home Surveillance,False,10249,;Brand;Color
+15345,Light Bulb,False,2319,;Brand;Color
+15343,Table Lamp,False,2319,;Brand;Color
+15346,Wall Light,False,2319,;Brand;Color
+15341,Ceiling Lamp,False,2319,;Brand;Light Type;Color
+15342,Down Light,False,2319,;Brand;Color
+15347,Sensor Light,False,2319,;Brand;Color
+15344,Fairy Light,False,2319,;Brand
+15329,Mattress,False,693,;Brand;Bedding Size
+15330,Protector,False,693,;Brand;Bedding Size;Linen Fabric
+15302,Bathroom Scales,False,711,;Brand;Type
+15305,Toilet Rails & Warmers,False,711,;Brand
+15304,Shower Head,False,711,;Brand;Color
+15303,Shower Curtains,False,711,;Brand;Color
+15301,Bath Mats,False,711,;Brand;Color
+15300,Bath Towel & Bathrobe,False,711,;Brand;Material
+15299,Face Towel,False,711,;Brand
+15298,Hand Towel,False,711,;Brand;Material
+15524,Bathroom Shelving,False,711,;Brand;Mounting
+15291,Lunch Box,False,697,;Brand;Color
+15289,Coaster,False,697,;Brand;Color
+15290,Placemat,False,697,;Brand;Color
+15288,Cooking Equipment,False,697,;Brand
+15286,Kitchen Accessories,False,697,;Brand;Color
+15287,Kitchen Organiser,False,697,;Brand
+15326,Mirror,False,695,;Brand;Mirror Type;Shape
+15322,Candle Holder,False,695,;Brand;Material
+15323,Vase,False,695,;Brand;Material
+15324,Curtains & Accessories,False,695,;Brand
+15325,Rugs & Carpets,False,695,;Brand
+15295,Washing Machine Accessories,False,2317,;Brand;Color
+15293,Dehumidifying Agent,False,2317,;Brand
+15296,Lint Roller,False,2317,;Brand;Color
+15292,Cleaning Agent,False,2317,;Brand
+15297,Cleaning Sponge / Cloth,False,2317,;Brand
+15294,Air Fresheners,False,2317,;Brand;Color
+15898,Default,False,15327,;Brand
+15328,Storage,False,15327,;Brand
+15356,Accessories Organiser,False,15327,;Brand;Color
+15355,Wardrobe Organiser,False,15327,;Brand;Color
+15351,Ironing Board,False,15327,;Brand;Color
+15353,Tissue Holder,False,15327,;Brand
+15349,Hangers & Pegs,False,15327,;Brand
+15354,Hooks,False,15327,;Brand;Color
+15350,Clothes Rack,False,15327,;Brand;Material
+15352,Laundry Basket,False,15327,;Brand;Material
+15327,Home Organisation,True,11,
+15331,Shelving,False,689,;Brand;Material
+15334,Cabinet,False,689,;Brand
+15332,Wardrobe,False,689,;Brand;Door Type
+15333,Shoe Rack,False,689,;Brand;Material
+16246,Default,False,16245,;Brand
+16247,Hoods and Hobs,False,16245,;Brand
+16248,Freezer,False,16245,;Brand
+16249,Chiller,False,16245,;Brand
+16245,Large Kitchen Appliances,True,2414,
+16258,Default,False,16257,;Brand
+16259,LED Tv,False,16257,;Brand
+16260,4k Tv,False,16257,;Brand
+16261,OLED Tv,False,16257,;Brand
+16257,Televisions,True,2414,
+16263,Default,False,16262,;Brand
+16264,TV Antena,False,16262,;Brand
+16265,TV Remote Control,False,16262,;Brand
+16266,TV Wall Mount & Brackets,False,16262,;Brand
+16262,TV Accessories,True,2414,
+16275,Telephone,False,16274,;Brand
+16276,Hair Dryer,False,16274,;Brand
+16277,Power Socket,False,16274,;Brand
+16278,Power Tools & Accessories,False,16274,;Brand
+16274,Tools & Small Appliances,True,2414,
+16254,Karaoke System,False,2420,;Brand
+16255,Home Entertaiment System,False,2420,;Brand
+16256,Soundbars,False,2420,;Brand
+16252,Air Cooler,False,2419,;Brand
+16253,Air Purifier,False,2419,;Brand
+16251,Garment Steamer,False,2418,;Brand
+16269,Juicer,False,2416,;Brand
+16270,Speciality cooker,False,2416,;Brand
+16271,Toaster,False,2416,;Brand
+16272,Fryers,False,2416,;Brand
+16273,Microwave,False,2416,;Brand
+14339,Boys' Top,False,773,;Brand
+14340,Boys' Bottoms,False,773,;Brand
+14341,Girls' Dresses,False,773,;Brand
+14342,Girls' Tops,False,773,;Brand
+14343,Girls' Bottoms,False,773,;Brand
+14344,Kids' Clothing Set,False,773,;Brand
+14320,Sake,False,14255,;Brand
+16168,Derma Skincare,False,495,;Brand
+16429,IoT & Smart Tech ,False,2314,;Brand
+16426,Default,False,16425,;Brand
+16425,Polo,False,2,;Brand
+16241,Default,False,16240,;Brand
+16242,Men's Backpack,False,16240,;Brand
+16243,Duffle Bags,False,16240,;Brand
+16244,Messenger Bags,False,16240,;Brand
+16240,Mens bags,True,2,

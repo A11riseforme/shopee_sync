@@ -1,0 +1,4 @@
+SO Identifier,Item SKU,Payment Terms,Ship Date,Ship Time,Ship to Contact,Ship to Company,Ship to Address 1,Ship to Address 2,Ship to Unit #,Ship to Postal Code,Ship to Phone,Qty,Price per Item,Price per SO,Remarks (Shipping) - visible to deliveryman,Remarks (WMS internal),Country Name
+180207120206A59,test-configurable,Paid,,,123333,,"Nemocommerce seoul korea, #114 , SG, 546080",,,546080,821090998665,1,56.00,,,180207120206A59,
+180212122406AE5,rain,Paid,,,123333,,"Nemocommerce seoul korea, #114 , SG, 546080",,,546080,821090998665,1,199.00,,,180212122406AE5,
+180212123806AE7,,Paid,,,123333,,"Nemocommerce seoul korea, #114 , SG, 546080",,,546080,821090998665,1,10.00,,,180212123806AE7,

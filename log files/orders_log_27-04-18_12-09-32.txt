@@ -1,0 +1,21 @@
+Log file for order creation from shopee to UrbanFox IMS. Account:curel
+curel-8 orders retrieved, 3 orders under READY_TO_SHIP,3 new orders and recorded in template, 3 new order lines recorded in template. Refer to log file for more details.
+
+All orders retrieved
+18042710402M4VU-READY_TO_SHIP
+18042701292BKS5-READY_TO_SHIP
+18042700282A3JN-READY_TO_SHIP
+180427000529643-UNPAID
+18042521172MHXY-SHIPPED
+180424210625NEE-SHIPPED
+18042412462H0PG-SHIPPED
+18042311502W7R2-SHIPPED
+
+New orders
+[SO, SKU, Payment, name, address, postal, phone, qty, unitPrice, TotPrice, Remarks, status]
+18042700282A3JN-READY_TO_SHIP
+['18042700282A3JN', 'SCU-754123', 'Paid', 'Nazri', 'BLOCK 108, SIMEI STREET 1, #02-738 , SG, 520108', '520108', '6584992337', 1, '17.90', '15.75', '', 'READY_TO_SHIP']
+18042701292BKS5-READY_TO_SHIP
+['18042701292BKS5', 'SCU-286119', 'Paid', 'Maggie Yeo', 'BLOCK 452, CHOA CHU KANG AVENUE 4, #02-139 , SG, 680452', '680452', '6591009515', 1, '14.90', '12.65', '', 'READY_TO_SHIP']
+18042710402M4VU-READY_TO_SHIP
+['18042710402M4VU', 'SCU-459678', 'Paid', 'Rachel Tan', '24 JALAN TENGGIRI, SG, 428270', '428270', '6591016802', 1, '17.90', '15.75', '', 'READY_TO_SHIP']

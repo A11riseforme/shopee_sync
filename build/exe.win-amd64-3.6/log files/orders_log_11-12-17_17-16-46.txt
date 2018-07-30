@@ -1,0 +1,4 @@
+Log file for order creation from shopee to UrbanFox IMS. Account:kao
+kao-No ready to ship orders from shopee - 
+
+All orders retrieved

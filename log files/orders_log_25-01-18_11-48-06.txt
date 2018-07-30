@@ -1,0 +1,15 @@
+Log file for order creation from shopee to UrbanFox IMS. Account:mondelez
+mondelez-2 orders retrieved, 2 orders under READY_TO_SHIP,2 new orders and recorded in template, 4 new order lines recorded in template. Refer to log file for more details.
+
+All orders retrieved
+1801191906068KS-READY_TO_SHIP
+1801191901068KR-READY_TO_SHIP
+
+New orders
+[SO, SKU, Payment, name, address, postal, phone, qty, unitPrice, TotPrice, Remarks, status]
+1801191901068KR-READY_TO_SHIP
+['1801191901068KR', '', 'Paid', '123333', 'Nemocommerce seoul korea, #114 , SG, 06187', '06187', '821090998665', 1, '10.00', '10.00', '', 'READY_TO_SHIP']
+1801191906068KS-READY_TO_SHIP
+['1801191906068KS', 'SKU10001', 'Paid', '123333', 'Nemocommerce seoul korea, #114 , SG, 06187', '06187', '821090998665', 1, '1.00', '12.00', '', 'READY_TO_SHIP']
+['1801191906068KS', 'SKU10002', 'Paid', '123333', 'Nemocommerce seoul korea, #114 , SG, 06187', '06187', '821090998665', 1, '1.00', '12.00', '', 'READY_TO_SHIP']
+['1801191906068KS', '', 'Paid', '123333', 'Nemocommerce seoul korea, #114 , SG, 06187', '06187', '821090998665', 1, '10.00', '12.00', '', 'READY_TO_SHIP']

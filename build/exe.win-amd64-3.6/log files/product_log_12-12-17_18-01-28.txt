@@ -1,0 +1,4 @@
+Log file for product inventory updates from UrbanFox IMS to shopee. Account:mondelez
+mondelez-2 successful updates, 0 failed updates. Refer to log folder for more details
+Update 1506315 / SKU10001 to stock level: 7 for mondelez - success
+Update 1506316 / SKU10002 to stock level: 1 for mondelez - success
